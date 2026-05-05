@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505173827C4W3QF</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505173827HKWZ90</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>APP INVENTOR</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Diseñar, programar y crear</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Marco Antonio Naves Menéndez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Creamos un videojuego con App Inventor: de la idea a la app</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777993905664</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1777992139401-ohws4njci</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777992139401-ohws4njci</odePageId>
+      <odeBlockId>block-1777992553054-u8rmcq4fr</odeBlockId>
+      <blockName>Aprender creando: del consumo digital a la producción propia</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777992139401-ohws4njci</odePageId>
+          <odeBlockId>block-1777992553054-u8rmcq4fr</odeBlockId>
+          <odeIdeviceId>idevice-1777992553048-y2qdv5l4v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La presente situación de aprendizaje permite al alumnado pasar de ser consumidor a creador de contenidos digitales. Se desarrollan habilidades relacionadas con la programación, el pensamiento computacional y la competencia digital. </p>
+<p><br />Se fomenta la autonomía, la creatividad y el trabajo colaborativo, promoviendo un aprendizaje significativo y aplicado a la realidad del alumnado. </p>
+<p><br />Relación con los Objetivos de Desarrollo Sostenible: </p>
+<ul>
+<li>ODS 4: Educación de calidad</li>
+<li>ODS 9: Industria, innovación e infraestructura </li>
+</ul>
+<p><br />Asimismo, se potencia el uso seguro, crítico y responsable de la tecnología, favoreciendo el desarrollo de la ciudadanía digital. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777992553048-y2qdv5l4v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La presente situación de aprendizaje permite al alumnado pasar de ser consumidor a creador de contenidos digitales. Se desarrollan habilidades relacionadas con la programación, el pensamiento computacional y la competencia digital. </p>\n<p><br />Se fomenta la autonomía, la creatividad y el trabajo colaborativo, promoviendo un aprendizaje significativo y aplicado a la realidad del alumnado. </p>\n<p><br />Relación con los Objetivos de Desarrollo Sostenible: </p>\n<ul>\n<li>ODS 4: Educación de calidad</li>\n<li>ODS 9: Industria, innovación e infraestructura </li>\n</ul>\n<p><br />Asimismo, se potencia el uso seguro, crítico y responsable de la tecnología, favoreciendo el desarrollo de la ciudadanía digital. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777992165694-jsmpets6r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777992165694-jsmpets6r</odePageId>
+      <odeBlockId>block-1777992791007-lu13kdm29</odeBlockId>
+      <blockName>Qué se aprende y por qué: conexión con el currículo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777992165694-jsmpets6r</odePageId>
+          <odeBlockId>block-1777992791007-lu13kdm29</odeBlockId>
+          <odeIdeviceId>idevice-1777992791004-1xnfuakxj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Competencias clave: </strong></p>
+<p>Competencia digital (CD) <br />Competencia personal, social y de aprender a aprender (CPSAA) <br />Competencia emprendedora (CE) </p>
+<p><br /><strong>Competencias específicas: </strong></p>
+<p>CE1: Buscar, seleccionar y gestionar información digital de forma crítica. <br />CE2: Crear contenidos digitales de forma responsable y creativa. <br />CE3: Colaborar mediante herramientas digitales. <br />CE4: Utilizar herramientas digitales respetando normas de seguridad y bienestar digital. <br />CE5: Desarrollar soluciones digitales mediante programación sencilla. </p>
+<p><br /><strong>Saberes básicos: </strong></p>
+<p><em>Bloque: Creación de contenidos digitales </em><br />Programación por bloques <br />Desarrollo de aplicaciones móviles <br />Diseño de interfaces digitales <br />Pensamiento computacional <br />Herramientas de creación digital </p>
+<p><br /><em>Bloque: Ciudadanía digital </em><br />Uso responsable de herramientas digitales <br />Seguridad y privacidad <br />Trabajo colaborativo en red </p>
+<p><br /><strong>Criterios de evaluación: </strong></p>
+<p>CE2.1: Crear contenidos digitales originales <br />CE3.1: Participar en proyectos colaborativos digitales <br />CE4.1: Usar herramientas digitales de forma segura <br />CE5.1: Desarrollar aplicaciones sencillas mediante programación <br />CE5.2: Aplicar estructuras básicas de programación </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777992791004-1xnfuakxj","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p><strong>Competencias clave: </strong></p>\n<p>Competencia digital (CD) <br />Competencia personal, social y de aprender a aprender (CPSAA) <br />Competencia emprendedora (CE) </p>\n<p><br /><strong>Competencias específicas: </strong></p>\n<p>CE1: Buscar, seleccionar y gestionar información digital de forma crítica. <br />CE2: Crear contenidos digitales de forma responsable y creativa. <br />CE3: Colaborar mediante herramientas digitales. <br />CE4: Utilizar herramientas digitales respetando normas de seguridad y bienestar digital. <br />CE5: Desarrollar soluciones digitales mediante programación sencilla. </p>\n<p><br /><strong>Saberes básicos: </strong></p>\n<p><em>Bloque: Creación de contenidos digitales </em><br />Programación por bloques <br />Desarrollo de aplicaciones móviles <br />Diseño de interfaces digitales <br />Pensamiento computacional <br />Herramientas de creación digital </p>\n<p><br /><em>Bloque: Ciudadanía digital </em><br />Uso responsable de herramientas digitales <br />Seguridad y privacidad <br />Trabajo colaborativo en red </p>\n<p><br /><strong>Criterios de evaluación: </strong></p>\n<p>CE2.1: Crear contenidos digitales originales <br />CE3.1: Participar en proyectos colaborativos digitales <br />CE4.1: Usar herramientas digitales de forma segura <br />CE5.1: Desarrollar aplicaciones sencillas mediante programación <br />CE5.2: Aplicar estructuras básicas de programación </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777992181552-1mzpmgofg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777992181552-1mzpmgofg</odePageId>
+      <odeBlockId>block-1777992936236-gmd4ci5k8</odeBlockId>
+      <blockName>Aprender haciendo: estrategias para un aprendizaje significativo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777992181552-1mzpmgofg</odePageId>
+          <odeBlockId>block-1777992936236-gmd4ci5k8</odeBlockId>
+          <odeIdeviceId>idevice-1777992936234-1sbhcw1j3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta situación de aprendizaje se utiliza el Aprendizaje Basado en Proyectos (ABP) como metodología principal. El alumnado parte de un reto real: diseñar y desarrollar un videojuego funcional utilizando App Inventor. <br />La intervención del profesorado se limita a la explicación inicial de la propuesta, el acompañamiento durante el proceso y la orientación en la toma de decisiones técnicas y creativas. A partir de ahí, el alumnado trabaja de forma activa en la creación de su aplicación, pasando por las fases de ideación, diseño, programación, pruebas y mejora del producto final. <br /> <br />Trabajo del alumnado:</p>
+<ul>
+<li>Diseño de la idea del videojuego  </li>
+<li>Desarrollo de la aplicación en App Inventor  </li>
+<li>Resolución de problemas de programación</li>
+<li>Trabajo colaborativo en equipo  </li>
+</ul>
+<p> <br />Uso de recursos digitales e inteligencia artificial, durante el proceso, el alumnado podrá apoyarse en:</p>
+<ul>
+<li>Internet para buscar ideas, ejemplos y soluciones técnicas  </li>
+<li>Herramientas de inteligencia artificial como apoyo para resolver dudas, generar ideas o comprender mejor conceptos de programación  </li>
+<li>El uso de estas herramientas se realizará de forma crítica, responsable y ética, fomentando la competencia digital y la verificación de la información<br /> </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777992936234-1sbhcw1j3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta situación de aprendizaje se utiliza el Aprendizaje Basado en Proyectos (ABP) como metodología principal. El alumnado parte de un reto real: diseñar y desarrollar un videojuego funcional utilizando App Inventor. <br />La intervención del profesorado se limita a la explicación inicial de la propuesta, el acompañamiento durante el proceso y la orientación en la toma de decisiones técnicas y creativas. A partir de ahí, el alumnado trabaja de forma activa en la creación de su aplicación, pasando por las fases de ideación, diseño, programación, pruebas y mejora del producto final. <br /> <br />Trabajo del alumnado:</p>\n<ul>\n<li>Diseño de la idea del videojuego  </li>\n<li>Desarrollo de la aplicación en App Inventor  </li>\n<li>Resolución de problemas de programación</li>\n<li>Trabajo colaborativo en equipo  </li>\n</ul>\n<p> <br />Uso de recursos digitales e inteligencia artificial, durante el proceso, el alumnado podrá apoyarse en:</p>\n<ul>\n<li>Internet para buscar ideas, ejemplos y soluciones técnicas  </li>\n<li>Herramientas de inteligencia artificial como apoyo para resolver dudas, generar ideas o comprender mejor conceptos de programación  </li>\n<li>El uso de estas herramientas se realizará de forma crítica, responsable y ética, fomentando la competencia digital y la verificación de la información<br /> </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777992198694-xu3qj6zq9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777992198694-xu3qj6zq9</odePageId>
+      <odeBlockId>block-1777993059062-281hkvo63</odeBlockId>
+      <blockName>Un proyecto conectado con la realidad del centro educativo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777992198694-xu3qj6zq9</odePageId>
+          <odeBlockId>block-1777993059062-281hkvo63</odeBlockId>
+          <odeIdeviceId>idevice-1777993059060-z9rlldmk6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje se vincula con:</p>
+<ul>
+<li>PLEI (Plan de Lectura, Escritura e Investigación), mediante el desarrollo de la competencia digital.</li>
+<li>PAD (Plan de Atención a la Diversidad), atendiendo a diferentes ritmos y estilos de aprendizaje.</li>
+<li>Plan Digital de Centro, promoviendo el uso de herramientas tecnológicas y la creación de contenidos digitales. </li>
+</ul>
+<p><br />Asimismo, se integra en los proyectos de innovación educativa del centro. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777993059060-z9rlldmk6","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Esta situación de aprendizaje se vincula con:</p>\n<ul>\n<li>PLEI (Plan de Lectura, Escritura e Investigación), mediante el desarrollo de la competencia digital.</li>\n<li>PAD (Plan de Atención a la Diversidad), atendiendo a diferentes ritmos y estilos de aprendizaje.</li>\n<li>Plan Digital de Centro, promoviendo el uso de herramientas tecnológicas y la creación de contenidos digitales. </li>\n</ul>\n<p><br />Asimismo, se integra en los proyectos de innovación educativa del centro. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777992213260-rahgrrcqh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777992213260-rahgrrcqh</odePageId>
+      <odeBlockId>block-1777993121299-r077hiaql</odeBlockId>
+      <blockName>Probamos y valoramos videojuegos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777992213260-rahgrrcqh</odePageId>
+          <odeBlockId>block-1777993121299-r077hiaql</odeBlockId>
+          <odeIdeviceId>idevice-1777993121297-k4xp1fum6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Descripción: </strong><br />El alumnado intercambia sus videojuegos con otros grupos de clase para probarlos y dar una valoración sencilla. </p>
+<p><br /><strong>Desarrollo de la actividad: </strong><br />Cada grupo juega al videojuego de otro equipo durante unos minutos y completa una ficha breve de valoración. </p>
+<p><br /><strong>Ficha de valoración: </strong></p>
+<ul>
+<li>¿El juego funciona correctamente? (Sí / A veces / No)  </li>
+<li>¿Es fácil de entender? (Sí / No)  </li>
+<li>¿Qué es lo que más te ha gustado?  </li>
+<li>¿Qué mejorarías?  </li>
+</ul>
+<p><br /><strong>Duración</strong>: 30 minutos. </p>
+<p><br /><strong>Objetivos: </strong><br />Fomentar la reflexión sobre el propio trabajo  <br />Desarrollar la capacidad de dar y recibir feedback  <br />Mejorar los proyectos antes de la entrega final  </p>
+<p><br /><strong>Evaluación: </strong><br />Observación del profesorado  <br />Participación en la actividad  <br />Calidad de las aportaciones realizadas  <br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777993121297-k4xp1fum6","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p><strong>Descripción: </strong><br />El alumnado intercambia sus videojuegos con otros grupos de clase para probarlos y dar una valoración sencilla. </p>\n<p><br /><strong>Desarrollo de la actividad: </strong><br />Cada grupo juega al videojuego de otro equipo durante unos minutos y completa una ficha breve de valoración. </p>\n<p><br /><strong>Ficha de valoración: </strong></p>\n<ul>\n<li>¿El juego funciona correctamente? (Sí / A veces / No)  </li>\n<li>¿Es fácil de entender? (Sí / No)  </li>\n<li>¿Qué es lo que más te ha gustado?  </li>\n<li>¿Qué mejorarías?  </li>\n</ul>\n<p><br /><strong>Duración</strong>: 30 minutos. </p>\n<p><br /><strong>Objetivos: </strong><br />Fomentar la reflexión sobre el propio trabajo  <br />Desarrollar la capacidad de dar y recibir feedback  <br />Mejorar los proyectos antes de la entrega final  </p>\n<p><br /><strong>Evaluación: </strong><br />Observación del profesorado  <br />Participación en la actividad  <br />Calidad de las aportaciones realizadas  <br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777992228473-9q6qb1xic</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Atribución y descarga</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777992228473-9q6qb1xic</odePageId>
+      <odeBlockId>block-1777994675474-hoiesziez</odeBlockId>
+      <blockName>Uso, reutilización y acceso al recurso</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777992228473-9q6qb1xic</odePageId>
+          <odeBlockId>block-1777994675474-hoiesziez</odeBlockId>
+          <odeIdeviceId>idevice-1777994675472-jnsfxiuug</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">APP INVENTOR</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Creamos un videojuego con App Inventor: de la idea a la app</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Marco Antonio Naves Menéndez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license"><a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="cc cc-by-sa"><span></span>Creative Commons BY-SA 4.0</a></span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
